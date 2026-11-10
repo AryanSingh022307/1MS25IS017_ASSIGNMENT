@@ -1,0 +1,6 @@
+{
+  "name": "PaperPilot - Research Paper Agent",
+  "description": "Structured academic literature-review planning agent powered by Gemini AI with chain-of-thought reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
